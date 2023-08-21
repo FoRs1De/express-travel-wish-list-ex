@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Bhutan",
+    "alpha2Code": "BT",
+    "alpha3Code": "BTN"
+  },
+  {
+    "id": 2,
+    "name": "USA",
+    "alpha2Code": "US",
+    "alpha3Code": "USA"
+  },
+  {
+    "id": 3,
+    "name": "Philippines",
+    "alpha2Code": "PH",
+    "alpha3Code": "PHL"
+  },
+  {
+    "id": 4,
+    "name": "Maldives",
+    "alpha2Code": "MV",
+    "alpha3Code": "MDV"
+  }
+]
